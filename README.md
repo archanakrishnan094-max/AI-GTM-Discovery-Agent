@@ -141,7 +141,7 @@ https://your-loom-video-link
 
 **Archana Krishnan**
 
-AI Enthusiast | Electronics & Communication Engineer | Building AI-powered automation projects
+AI Enthusiast | Electrical & Electronics Engineer | Building AI-powered automation projects
 
 LinkedIn:
 # AI GTM Discovery Agent
@@ -151,10 +151,10 @@ An AI-powered Go-To-Market (GTM) Discovery Agent that automates company research
 ## Live Demo
 
 Website:
-https://your-live-demo-link
+https://webpage-creation--archanakrishna4.replit.app
 
 Loom Demo:
-https://your-loom-video-link
+https://www.loom.com/share/19174ec0c8e245c792bb7ea6d23b8885
 
 ## Problem Statement
 
@@ -214,7 +214,7 @@ https://your-loom-video-link
 
 **Archana Krishnan**
 
-AI Enthusiast | Electronics & Communication Engineer | Building AI-powered automation projects
+AI Enthusiast | Electrical & Electronics Engineer | Building AI-powered automation projects
 
 LinkedIn:
 www.linkedin.com/in/archana-krishnan-303bb681
@@ -222,8 +222,4 @@ www.linkedin.com/in/archana-krishnan-303bb681
 GitHub:
 https://github.com/yourusername
 
-GitHub:
-https://github.com/yourusername
 
-GitHub:
-https://github.com/yourusername
